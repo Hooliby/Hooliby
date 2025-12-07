@@ -14,9 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true#gh-light-mode-only)](https://github.com/Hooliby#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact#gh-light-mode-only)](https://github.com/Hooliby#gh-light-mode-only)
+<!-- Light Mode -->
+<div align="center">
+  <a href="https://github.com/Hooliby#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&show_icons=true#gh-light-mode-only" />
+  </a>
+  <a href="https://github.com/Hooliby#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact#gh-light-mode-only" />
+  </a>
+</div>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/Hooliby#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&theme=github_dark&layout=compact#gh-dark-mode-only)](https://github.com/Hooliby#gh-dark-mode-only)
+<!-- Dark Mode -->
+<div align="center">
+  <a href="https://github.com/Hooliby#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/Hooliby#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact&theme=github_dark#gh-dark-mode-only" />
+  </a>
+</div>
+
