@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Light Mode -->
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&show_icons=true#gh-light-mode-only)](https://github.com/Hooliby#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact#gh-light-mode-only)](https://github.com/Hooliby#gh-light-mode-only)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&show_icons=true)](https://github.com/Hooliby#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact)](https://github.com/Hooliby#gh-light-mode-only)
 
 <!-- Dark Mode -->
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&theme=github_dark&show_icons=true#gh-dark-mode-only)](https://github.com/Hooliby#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/Hooliby#gh-dark-mode-only)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Hooliby&hide_border=true&theme=github_dark&show_icons=true)](https://github.com/Hooliby#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooliby&hide_border=true&layout=compact&theme=github_dark)](https://github.com/Hooliby#gh-dark-mode-only)
+
